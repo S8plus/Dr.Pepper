@@ -1943,6 +1943,9 @@ https://edge-hls.sacdnssedge.com/hls/177792127/master/177792127_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfHnw3G9/Chili-Pepper-512x586p-01.png" group-title="",🇧🇷 Limavasconceloss®
 https://edge-hls.sacdnssedge.com/hls/263394560/master/263394560_1080p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfHnw3G9/Chili-Pepper-512x586p-01.png" group-title="",🇨🇳 LINA-LILI®
+https://edge-hls.sacdnssedge.com/hls/283207774/master/283207774_1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfHnw3G9/Chili-Pepper-512x586p-01.png" group-title="",🇨🇴 lina_seduce®
 https://edge-hls.sacdnssedge.com/hls/248434107/master/248434107_1080p.m3u8
 
@@ -3975,5 +3978,10 @@ https://vz-8fe26208-8ed.b-cdn.net/2da8c8c3-05ec-40b2-aeb5-91f0ad71d93d/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfHnw3G9/Chili-Pepper-512x586p-01.png" group-title="", 286786555
 https://vz-8fe26208-8ed.b-cdn.net/06a8101f-c449-45c1-a220-69e04816aff0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfHnw3G9/Chili-Pepper-512x586p-01.png" group-title="",237651735
+https://vz-8fe26208-8ed.b-cdn.net/53b5810f-73cb-4537-b2a2-3cde9169a6a1/playlist.m3u8
+
+
 
 
